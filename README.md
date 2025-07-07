@@ -6,7 +6,7 @@ Welcome to my GitHub resume repository! This serves as a **central hub for my re
 
 ## 📄 Resume (Always Updated)
 
-📥 [Click here to view my latest resume (PDF)](https://github.com/Prathmesh-D/Resume/blob/main/Resume.pdf)
+📥 [Click here to view my latest resume (PDF)](https://prathmesh-d.github.io/Resume/Resume.pdf)
 
 ---
 
