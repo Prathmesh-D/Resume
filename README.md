@@ -6,7 +6,7 @@ Welcome to my GitHub resume repository! This serves as a **central hub for my re
 
 ## 📄 Resume (Always Updated)
 
-📥 [Click here to view my latest resume (PDF)](https://github.com/Prathmesh-D/Resume/Resume.pdf)
+📥 [Click here to view my latest resume (PDF)] (https://github.com/Prathmesh-D/Resume/blob/main/Resume.pdf)
 
 ---
 
@@ -28,7 +28,7 @@ I'm a **B.Tech student in Information Technology** at **Madhav Institute of Tech
 
 ## 🚀 Projects
 
-### 🔐 [Text Encryption using Modified AES](https://github.com/Prathmesh-D/Text-Encryption-Modified-AES)
+### 🔐 [Text Encryption using Modified AES] (https://github.com/Prathmesh-D/AESFXEncrypt-JavaFX-AES-Encryption-Decryption-Tool)
 > *Jan 2023 – Dec 2023*  
 Built a custom AES-192 encryption tool with improved security metrics based on my research. Used entropy, avalanche effect, and timing analysis for evaluation.
 
