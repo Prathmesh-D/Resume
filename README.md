@@ -28,6 +28,10 @@ I'm a **B.Tech student in Information Technology** at **Madhav Institute of Tech
 
 ## 🚀 Projects
 
+### 🔐 [Enhanced AES-192 Algorithm – Experimental Research](https://github.com/Prathmesh-D/Enhanced-AES-192-Encryption-with-Repeated-MixColumns)
+> *Jan 2023 – Dec 2023*  
+Conducted repeated scientific experiments to evaluate security-performance trade-offs of AES-192 with modified MixColumns. Results were published in a peer-reviewed journal (IJSRD). Demonstrates applied software research and cryptographic development in Java.
+
 ### 🔐 [Text Encryption using Modified AES](https://github.com/Prathmesh-D/AESFXEncrypt-JavaFX-AES-Encryption-Decryption-Tool)
 > *Jan 2023 – Dec 2023*  
 Built a custom AES-192 encryption tool with improved security metrics based on my research. Used entropy, avalanche effect, and timing analysis for evaluation.
@@ -35,6 +39,10 @@ Built a custom AES-192 encryption tool with improved security metrics based on m
 ### 📋 [Smart Task Manager (Java Swing)](https://github.com/Prathmesh-D/Smart-Task-Manager)
 > *May 2025 – Present*  
 A modern task management app with a priority-based scheduling system and alert notifications. Designed with modular OOP and Java Swing GUI.
+
+### 🤖 [Auto-Login Bot (Python + Selenium)](https://github.com/Prathmesh-D/AutoLoginBot)
+> *2024*  
+Developed a Python automation bot using Selenium to auto-login into frequently used websites with saved credentials. Designed for speed, stealth, and ease of modification. Demonstrates backend scripting, automation, and secure credential handling.
 
 ---
 
