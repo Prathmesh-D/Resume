@@ -28,24 +28,25 @@ Always building something. Always learning something harder.
 
 ## 🚀 Projects
 
-### 🔐 [Sentra – Encrypted File Sharing Platform](https://github.com/Prathmesh-D)
+### 🔐 [Sentra – Encrypted File Sharing Platform](https://github.com/Prathmesh-D/Sentra)
 > *2025 – Present*
 Full-stack encrypted file-sharing platform with a React + TypeScript frontend and Java 21 custom HTTP backend, deployed on Render. Features AES-256-GCM encryption, RSA key wrapping, JWT auth with HttpOnly cookies, refresh tokens, and rate limiting. Uses MongoDB Atlas + GridFS for encrypted storage with inbox/outbox lifecycle, file expiry, and self-destruct logic. Shipped as both a web app (Vite + Tailwind) and a Windows desktop app via Electron with auto-update via GitHub Releases.
+
+### 🍒 [Recruvia – AI Applicant Tracking System](https://github.com/Prathmesh-D/Recruvia)
+> *2026*
+Intelligent Applicant Tracking System using Google Gemini 2.0 Flash to parse resumes and dynamically rank candidates against Job Descriptions. Features a fully responsive Neobrutalist UI powered by Tailwind CSS v4 and Framer Motion, real-time AI scoring metrics streamed via Server-Sent Events (SSE), and a robust relational database backend managed with Prisma and PostgreSQL.
 
 ### 🔐 [Enhanced AES-192 Algorithm – Research Implementation](https://github.com/Prathmesh-D/Enhanced-AES-192-Encryption-with-Repeated-MixColumns)
 > *Jan 2023 – Dec 2023*
 Built a custom AES-192 encryption tool based on published research. Evaluated security-performance trade-offs using entropy, avalanche effect, and execution time analysis. Results published in IJSRD.
 
-### 🤖 [Auto-Login Bot (Python + Selenium)](https://github.com/Prathmesh-D/AutoLoginBot)
-> *2024*
-Python automation bot using Selenium for auto-login with saved credentials. Demonstrates backend scripting, browser automation, and secure credential handling.
 
 ---
 
 ## 📚 Education
 **Madhav Institute of Technology and Science**
 *B.Tech – Information Technology (2023–2027)*
-CGPA: 7.71 / 10
+CGPA: 7.92 / 10
 
 **Government Polytechnic College, Betul**
 *Diploma – Computer Science (2021–2024)*
