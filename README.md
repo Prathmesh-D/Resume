@@ -18,10 +18,10 @@ Always building something. Always learning something harder.
 ---
 
 ## 🛠️ Skills
-- **Languages & Frontend**: Java, TypeScript, JavaScript, HTML/CSS, React, Vite, Tailwind CSS, Radix UI
-- **Backend & Database**: Java 21, REST API, JDBC, Gradle, JWT, MongoDB Atlas, GridFS, MySQL, phpMyAdmin
+- **Languages & Frontend**: Java, TypeScript, JavaScript, HTML/CSS, React, Next.js, Vite, Tailwind CSS, Radix UI
+- **Backend & Database**: Java 21, REST API, JDBC, Gradle, JWT, MongoDB Atlas, GridFS, MySQL, PostgreSQL, Prisma
 - **Security**: AES-256-GCM, RSA, JWT, jBCrypt, AES-192
-- **DevOps & Tools**: Docker, Render, Electron, GitHub Actions, VS Code, Git, Linux, Kali Linux
+- **DevOps & Tools**: Docker, Render, Vercel, Electron, GitHub Actions, VS Code, Git, Linux, Kali Linux
 - **Core CS**: Data Structures, Algorithms, OOP, Time & Space Complexity
 
 ---
@@ -45,7 +45,7 @@ Built a custom AES-192 encryption tool based on published research. Evaluated se
 
 ## 📚 Education
 **Madhav Institute of Technology and Science**
-*B.Tech – Information Technology (2023–2027)*
+*B.Tech – Information Technology (2023–2027)*       
 CGPA: 7.92 / 10
 
 **Government Polytechnic College, Betul**
