@@ -44,15 +44,17 @@ Built a custom AES-192 encryption tool based on published research. Evaluated se
 ---
 
 ## 📚 Education
-**Madhav Institute of Technology and Science**
-*B.Tech – Information Technology (2023–2027)*       
-CGPA: 7.92 / 10
 
-**Government Polytechnic College, Betul**
-*Diploma – Computer Science (2021–2024)*
-CGPA: 8.09 / 10
+**Madhav Institute of Technology and Science**  
+*B.Tech – Information Technology (2023–2027)*  
+**CGPA:** 8.04 / 10
 
-**SSC (10th)** — CGPA: 8.7 / 10
+**Government Polytechnic College, Betul**  
+*Diploma – Computer Science (2021–2024)*  
+**CGPA:** 8.28 / 10
+
+**SSC (10th)**  
+**CGPA:** 8.98 / 10
 
 ---
 
