@@ -54,7 +54,7 @@ Built a custom AES-192 encryption tool based on published research. Evaluated se
 **CGPA:** 8.28 / 10
 
 **SSC (10th)**  
-**CGPA:** 8.98 / 10
+**CGPA:** 8.38 / 10
 
 ---
 
